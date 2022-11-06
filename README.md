@@ -8,7 +8,7 @@ A fundamental stepping point to deep neural network is the "Hello World" of mach
 4. Evaluation of model
 
 # Libraries Used
-Tensorflow (for machine learning)
-Pandas (for data analysis and manipulation)
-Numpy (for numerical computation and assisting Tensorflow)
+- Tensorflow (for machine learning)
+- Pandas (for data analysis and manipulation)
+- Numpy (for numerical computation and assisting Tensorflow)
 
